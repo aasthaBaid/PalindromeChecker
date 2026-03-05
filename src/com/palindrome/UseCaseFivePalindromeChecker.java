@@ -31,10 +31,6 @@ public class UseCaseFivePalindromeChecker {
 		if(isPalindrome) {
 			System.out.println("Is a palindrome");
 		}
-		else {
-			
-		}
-		
 		
 	}
 
